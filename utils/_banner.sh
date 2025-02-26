@@ -16,11 +16,7 @@
 #   None
 #######################################
 print_banner() {
-  clear
-
-
-GREEN='\033[0;32m'  # Código ANSI para el color verde
-NC='\033[0m'        # Código ANSI para restablecer el color
+  clear      # Código ANSI para restablecer el color
 
  ██████████                              █████████  █████                 █████   
 ░░███░░░░░█                             ███░░░░░███░░███                 ░░███    
